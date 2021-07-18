@@ -6,8 +6,8 @@ export default function App() {
   return (
     <div>
       {/* <GameXucXac/> */}
-      <GameOanTuXi/>
-      {/* <BaiTapBooking/> */}
+      {/* <GameOanTuXi/> */}
+      <BaiTapBooking/>
     </div>
   )
 }
